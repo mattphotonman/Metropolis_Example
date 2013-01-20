@@ -1,3 +1,9 @@
+metrop
+output.txt
+
+# Auto-save files
+*~
+
 # Compiled Object files
 *.slo
 *.lo
